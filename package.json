@@ -1,0 +1,11 @@
+{
+  "name": "back_end_youtube",
+  "version": "1.0.0",
+  "description": "A back-end for Learning The fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Safar Mansuri",
+  "license": "ISC"
+}
